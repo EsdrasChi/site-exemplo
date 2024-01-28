@@ -1,0 +1,33 @@
+main {
+   
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    height: 40vw;
+
+    .conteudo{
+       
+    }
+    
+}
+
+
+.imagem {
+    height: 50px;
+    width: auto;
+}
+
+.habilidades >img:hover{
+    height: 60px;
+    width: 60px;
+
+}
+
+.foto{
+
+    border-radius: 50%;
+}
+
+main>div{
+    margin: 10vw;
+}
